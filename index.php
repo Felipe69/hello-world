@@ -3,7 +3,8 @@
 <?php
 $print = echo "Teste2";
 echo "Teste git Linux";
-$print
+print 
+echo 15 * 15;
 ?>
 </body>
 </html>
